@@ -1,0 +1,25 @@
+package mavenproject;
+
+public class Data {
+	static public int value;
+	public int getValue() {
+		return value;
+	}
+public class Application{
+	int count=100;
+	public void main(String[] args) {
+		Application application=new Application();
+		System.out.println(application.count);
+		}
+     oka kotha class lo add cheyali below code    
+	{
+		System.out.println("Inline");
+	}
+static {
+		value=10;
+		System.out.println("Static Initialiser executed");
+	}
+public int getValue() {
+		return value;
+	}
+}
