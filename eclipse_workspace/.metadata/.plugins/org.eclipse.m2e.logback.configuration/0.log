@@ -261,3 +261,37 @@
 2025-04-30 14:44:47,794 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2025-04-30 14:44:47,795 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\main\resources
 2025-04-30 14:44:47,797 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 14:44:47,797 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\test\resources
+2025-04-30 16:30:11,806 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 16:30:11,806 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\main\resources
+2025-04-30 16:30:11,808 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 16:30:11,808 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\test\resources
+2025-04-30 16:33:16,118 [Worker-167: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\SravaniBurugula\eclipse_workspace\lambda\pom.xml
+2025-04-30 16:33:16,779 [Worker-167: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:lambda:0.0.1-SNAPSHOT @ C:\SravaniBurugula\eclipse_workspace\lambda\pom.xml.
+2025-04-30 16:33:16,887 [Worker-167: Creating java8-quickstart-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambda/src/main/java
+2025-04-30 16:33:16,896 [Worker-167: Creating java8-quickstart-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambda/src/test/java
+2025-04-30 16:33:17,265 [Worker-167: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-04-30 16:33:17,552 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 16:33:17,552 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\lambda\src\main\resources
+2025-04-30 16:33:17,553 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 16:33:17,553 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\lambda\src\test\resources
+2025-04-30 16:50:48,402 [Worker-175: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\SravaniBurugula\eclipse_workspace\exceptions\pom.xml
+2025-04-30 16:50:48,990 [Worker-175: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:exceptions:0.0.1-SNAPSHOT @ C:\SravaniBurugula\eclipse_workspace\exceptions\pom.xml.
+2025-04-30 16:50:49,104 [Worker-175: Creating java8-quickstart-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exceptions/src/main/java
+2025-04-30 16:50:49,114 [Worker-175: Creating java8-quickstart-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exceptions/src/test/java
+2025-04-30 16:50:49,438 [Worker-175: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-04-30 16:50:49,686 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 16:50:49,687 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\exceptions\src\main\resources
+2025-04-30 16:50:49,687 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 16:50:49,687 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\exceptions\src\test\resources
+2025-04-30 16:51:40,936 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 16:51:40,937 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\exceptions\src\main\resources
+2025-04-30 16:51:40,938 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 16:51:40,938 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\exceptions\src\test\resources
+2025-04-30 16:54:48,667 [Worker-178: Launching Exception] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 16:54:48,667 [Worker-178: Launching Exception] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\exceptions\src\main\resources
+2025-04-30 16:54:48,668 [Worker-178: Launching Exception] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 16:54:48,669 [Worker-178: Launching Exception] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\exceptions\src\test\resources
+2025-04-30 16:57:07,115 [Worker-175: Launching Exception] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 16:57:07,116 [Worker-175: Launching Exception] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\exceptions\src\main\resources
+2025-04-30 16:57:07,116 [Worker-175: Launching Exception] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
