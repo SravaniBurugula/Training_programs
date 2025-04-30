@@ -89,3 +89,127 @@
 2025-04-29 16:54:05,997 [Worker-112: Launching point] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2025-04-29 16:54:05,997 [Worker-112: Launching point] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2025-04-29 16:54:05,998 [Worker-112: Launching point] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 16:58:08,199 [Worker-115: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 16:58:08,200 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 16:58:08,201 [Worker-115: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 16:58:08,201 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 19:14:36,227 [Worker-120: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 19:14:36,233 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 19:14:36,235 [Worker-120: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 19:14:36,237 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 19:17:20,301 [Worker-121: Launching Priority] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 19:17:20,303 [Worker-121: Launching Priority] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 19:17:20,305 [Worker-121: Launching Priority] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 19:17:20,307 [Worker-121: Launching Priority] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 19:18:04,827 [Worker-119: Launching Priority] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 19:18:04,829 [Worker-119: Launching Priority] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 19:18:04,831 [Worker-119: Launching Priority] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 19:18:04,832 [Worker-119: Launching Priority] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 19:19:25,430 [Worker-106: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 19:19:25,432 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 19:19:25,434 [Worker-106: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 19:19:25,435 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 19:37:06,928 [Worker-119: Launching Priority] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 19:37:06,931 [Worker-119: Launching Priority] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 19:37:06,934 [Worker-119: Launching Priority] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 19:37:06,936 [Worker-119: Launching Priority] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 19:47:03,489 [Worker-126: Launching Priority] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 19:47:03,491 [Worker-126: Launching Priority] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 19:47:03,491 [Worker-126: Launching Priority] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-29 19:47:03,492 [Worker-126: Launching Priority] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-30 09:51:26,500 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-30 09:51:26,503 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-30 09:51:26,504 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-30 09:51:26,504 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-30 10:09:43,736 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/pl/org/miki/java8-quickstart-archetype/1.0.0/java8-quickstart-archetype-1.0.0.jar
+2025-04-30 10:09:43,942 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/pl/org/miki/java8-quickstart-archetype/1.0.0/java8-quickstart-archetype-1.0.0.jar
+2025-04-30 10:09:44,091 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/pl/org/miki/java8-quickstart-archetype/1.0.0/java8-quickstart-archetype-1.0.0.pom
+2025-04-30 10:09:44,277 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/pl/org/miki/java8-quickstart-archetype/1.0.0/java8-quickstart-archetype-1.0.0.pom
+2025-04-30 10:10:11,924 [Worker-136: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\SravaniBurugula\eclipse_workspace\enum\pom.xml
+2025-04-30 10:10:12,480 [Worker-136: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:enum:0.0.1-SNAPSHOT @ C:\SravaniBurugula\eclipse_workspace\enum\pom.xml.
+2025-04-30 10:10:12,664 [Worker-136: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2025-04-30 10:10:12,736 [Worker-136: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2025-04-30 10:10:12,795 [Worker-136: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2025-04-30 10:10:12,872 [Worker-136: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2025-04-30 10:10:12,918 [Worker-136: Creating java8-quickstart-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /enum/src/main/java
+2025-04-30 10:10:12,927 [Worker-136: Creating java8-quickstart-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /enum/src/test/java
+2025-04-30 10:10:13,260 [Worker-136: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-04-30 10:10:13,496 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:10:13,496 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\enum\src\main\resources
+2025-04-30 10:10:13,497 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:10:13,497 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\enum\src\test\resources
+2025-04-30 10:10:13,998 [Worker-138: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11-sources.jar
+2025-04-30 10:10:14,056 [Worker-138: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11-sources.jar
+2025-04-30 10:10:14,058 [Worker-138: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.11
+2025-04-30 10:10:14,531 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:10:14,531 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\enum\src\main\resources
+2025-04-30 10:10:14,532 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:10:14,532 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\enum\src\test\resources
+2025-04-30 10:11:40,459 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:11:40,459 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\enum\src\main\resources
+2025-04-30 10:11:40,460 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:11:40,460 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\enum\src\test\resources
+2025-04-30 10:12:18,668 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:12:18,669 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\enum\src\main\resources
+2025-04-30 10:12:18,670 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:12:18,670 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\enum\src\test\resources
+2025-04-30 10:14:22,501 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:14:22,501 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\enum\src\main\resources
+2025-04-30 10:14:22,501 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:14:22,501 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\enum\src\test\resources
+2025-04-30 10:45:06,838 [Worker-137: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\SravaniBurugula\eclipse_workspace\oops\pom.xml
+2025-04-30 10:45:07,435 [Worker-137: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:oops:0.0.1-SNAPSHOT @ C:\SravaniBurugula\eclipse_workspace\oops\pom.xml.
+2025-04-30 10:45:07,550 [Worker-137: Creating java8-quickstart-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /oops/src/main/java
+2025-04-30 10:45:07,560 [Worker-137: Creating java8-quickstart-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /oops/src/test/java
+2025-04-30 10:45:07,933 [Worker-137: Creating java8-quickstart-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-04-30 10:45:08,255 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:45:08,256 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\main\resources
+2025-04-30 10:45:08,256 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:45:08,256 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\test\resources
+2025-04-30 10:46:12,824 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:46:12,824 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\main\resources
+2025-04-30 10:46:12,824 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:46:12,825 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\test\resources
+2025-04-30 10:46:31,805 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:46:31,805 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\main\resources
+2025-04-30 10:46:31,806 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:46:31,806 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\test\resources
+2025-04-30 10:46:58,114 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:46:58,114 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\main\resources
+2025-04-30 10:46:58,115 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:46:58,115 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\test\resources
+2025-04-30 10:47:14,650 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:47:14,650 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\main\resources
+2025-04-30 10:47:14,651 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:47:14,651 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\test\resources
+2025-04-30 10:49:38,158 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:49:38,159 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\main\resources
+2025-04-30 10:49:38,159 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:49:38,159 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\test\resources
+2025-04-30 10:54:27,918 [Worker-142: Launching Priority] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-30 10:54:27,920 [Worker-142: Launching Priority] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-30 10:54:27,921 [Worker-142: Launching Priority] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-30 10:54:27,922 [Worker-142: Launching Priority] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-30 11:06:26,715 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 11:06:26,715 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\main\resources
+2025-04-30 11:06:26,715 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 11:06:26,715 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\test\resources
+2025-04-30 11:06:30,262 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 11:06:30,262 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\enum\src\main\resources
+2025-04-30 11:06:30,263 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 11:06:30,263 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\enum\src\test\resources
+2025-04-30 11:06:30,277 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 11:06:30,277 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\main\resources
+2025-04-30 11:06:30,278 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 11:06:30,278 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\test\resources
+2025-04-30 11:07:00,571 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 11:07:00,571 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\main\resources
+2025-04-30 11:07:00,572 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 11:07:00,572 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\test\resources
+2025-04-30 11:13:47,476 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 11:13:47,477 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\main\resources
+2025-04-30 11:13:47,477 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 11:13:47,478 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\test\resources
+2025-04-30 11:20:16,069 [Worker-143: Launching Base1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 11:20:16,070 [Worker-143: Launching Base1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\oops\src\main\resources
+2025-04-30 11:20:16,070 [Worker-143: Launching Base1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
