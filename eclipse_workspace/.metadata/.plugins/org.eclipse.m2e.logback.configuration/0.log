@@ -2660,3 +2660,17 @@ Caused by: java.lang.NoClassDefFoundError: Could not initialize class org.apache
 2025-05-13 16:37:42,931 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\spring\src\test\resources
 2025-05-13 16:37:44,938 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2025-05-13 16:37:44,939 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-05-13 16:37:44,940 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-05-13 16:37:44,940 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\spring\src\test\resources
+2025-05-13 16:58:51,659 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-05-13 16:58:51,660 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\exceptions\src\main\resources
+2025-05-13 16:58:51,660 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-05-13 16:58:51,660 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\exceptions\src\test\resources
+2025-05-13 16:59:50,467 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-05-13 16:59:50,468 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-05-13 16:59:50,472 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-05-13 16:59:50,472 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\spring\src\test\resources
+2025-05-13 16:59:56,653 [Worker-186: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-05-13 16:59:56,654 [Worker-186: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-05-13 16:59:56,657 [Worker-186: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-05-13 16:59:56,657 [Worker-186: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SravaniBurugula\eclipse_workspace\spring\src\test\resources
