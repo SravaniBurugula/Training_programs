@@ -11,7 +11,16 @@ public class Application
 	{
 		AbstractApplicationContext context= new ClassPathXmlApplicationContext("spring.xml");
 		TextEditor textEditor = (TextEditor)context.getBean("textEditor");
-	    textEditor.spellCheck();
+	    textEditor.spellChecker();
+	    
+//	    JavaCollection jc = (JavaCollection)context.getBean("javaCollection");
+//	    
+//	    jc.getAddressList();
+//	    jc.getAddressMap();
+//	    jc.getAddressProp();
+//	    jc.getAddressSet();
+//	 
+	    
 		System.out.println("End");
 	}
 }
