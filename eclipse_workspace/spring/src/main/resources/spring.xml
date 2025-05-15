@@ -11,9 +11,13 @@
    
 <context:annotation-config/>
 
-   <bean id="textEditor" class="com.ibm.spring.TextEditor" scope="singleton">
-   </bean>
-      <bean id="spellChecker" class="com.ibm.spring.SpellChecker" scope="singleton"></bean>
+   <bean id="textEditor" class="com.ibm.spring.TextEditor" scope="singleton"></bean>
+      <bean id="spellChecker1" class="com.ibm.spring.SpellChecker" scope="singleton">
+      <property name="id" value="1"></property>
+      </bean>
+      
+      <bean id="spellChecker2" class="com.ibm.spring.SpellChecker" scope="singleton"></bean>
+   
    <bean id="javaCollection" class = "com.ibm.spring.JavaCollection" >
 	         <property name="addressList">
 	          <list>
